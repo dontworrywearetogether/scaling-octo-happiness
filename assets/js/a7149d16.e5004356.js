@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1628],{1927:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/scaling-octo-happiness/blog/tags/docusaurus","allTagsPath":"/scaling-octo-happiness/blog/tags","count":4}')}}]);
