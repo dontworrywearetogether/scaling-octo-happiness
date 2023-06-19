@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9131],{7857:(e,t,l)=>{l.r(t),l.d(t,{default:()=>a});var s=l(7294),n=l(7961);const a=()=>s.createElement(n.Z,null,s.createElement("div",null,s.createElement("h1",null,"This is First page")))}}]);

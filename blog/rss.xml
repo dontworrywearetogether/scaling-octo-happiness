@@ -4,10 +4,20 @@
         <title>My Site Blog</title>
         <link>https://dontworrywearetogether.github.io/scaling-octo-happiness/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://dontworrywearetogether.github.io/scaling-octo-happiness/blog/happy</link>
+            <guid>https://dontworrywearetogether.github.io/scaling-octo-happiness/blog/happy</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[...]]></description>
+            <content:encoded><![CDATA[<h4>...</h4><p>bbbbb</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://dontworrywearetogether.github.io/scaling-octo-happiness/blog/welcome</link>
